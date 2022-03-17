@@ -75,6 +75,7 @@ article {
   display: flex;
   flex-direction: column;
   padding: 2rem;
+  justify-content: flex-end;
   margin: 0 1rem;
   max-width: 300px;
   box-shadow: 0 4px 8px 2px rgba(77, 77, 77, 0.15);
@@ -98,6 +99,7 @@ a {
   font-size: 1rem;
   text-align: center;
   justify-content: flex-end;
+  
 }
 
 a:hover {

@@ -90,11 +90,14 @@ ul {
 }
 
 a {
-  text-decoration: none;
+  padding: 1rem;
   background-color: #7f21eb;
   color: #f3f3f3;
-  width: fit-content;
-  padding: 1rem 1rem;
+  border: none;
+  font-family: "Roboto", sans-serif;
+  font-size: 1rem;
+  text-align: center;
+  justify-content: flex-end;
 }
 
 a:hover {
